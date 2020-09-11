@@ -1,0 +1,18 @@
+{
+    "name" : "weather app",
+    "short_name" : "weatherApp",
+    "start_url" : "/main.html",
+    "display" : "standalone",
+    "background_color" : "#FFE9D2",
+    "theme_color" : "#FFE1C4",
+    "orientation" : "portrait-primary" ,
+    "icons" : [
+        {
+            "src": "img/download.jpg",
+            "type" : "image/jpg",
+            "sizes" : "144x144"
+        }
+       
+       
+    ]
+}
